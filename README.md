@@ -1,4 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Naim Ali</h1>
+<h3 align="center">Now, I am learning frontend developer</h3>
+
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-18655255&psig=AOvVaw2LajQFuGWLnawhv3231Qdp&ust=1674910064417000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPitwrPk5_wCFQAAAAAdAAAAABAR" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
